@@ -78,7 +78,7 @@ The following Microsoft Endpoint Manager - Intune (Intune) applications can be f
 * Scope tags: `Default`
 * Assignments
   * Required: -
-  * Available for enrolled devices: `rol-Agency-Administrators`, `rol-Agency-Users`
+  * Available for enrolled devices: `grp-iOS-Dynamic`
   * Available with or without enrollment: -
   * Uninstall: -
   * License Type: `Device licensing`
@@ -103,12 +103,11 @@ The following Microsoft Endpoint Manager - Intune (Intune) applications can be f
   * Logo: ![Microsoft Authenticator](/assets/images/abac/microsoft-authenticator.png)
 * Scope tags: `Default`
 * Assignments
-  * Required: `rol-Agency-Administrators`, `rol-Agency-Users`
+  * Required: `grp-iOS-Dynamic`
   * Available for enrolled devices: -
   * Available with or without enrollment: -
   * Uninstall: -
   * License Type: `Device licensing`
-
 ### Microsoft Edge
 
 * Name: `Microsoft Edge`
